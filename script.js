@@ -35,3 +35,5 @@ function result(b) {
 function deletevalue(c) {
     res1.innerHTML=res1.innerHTML.slice(0,-1)
 }
+
+let icon=document.getElementById("about")
